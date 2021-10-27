@@ -1,0 +1,37 @@
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.deps.json
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csprojAssemblyReference.cache
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfo.cs
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.deps.json
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csprojAssemblyReference.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfo.cs
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.deps.json
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csproj.AssemblyReference.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfo.cs
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.deps.json
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\bin\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.AssemblyInfo.cs
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.DataLayer\obj\Debug\netcoreapp2.2\InterviewTracker.DataLayer.pdb

@@ -1,0 +1,38 @@
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-MongoDb\DotNetCore_InterviewTracker_MongoDb\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
