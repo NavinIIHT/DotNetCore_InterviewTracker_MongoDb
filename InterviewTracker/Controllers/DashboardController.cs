@@ -27,8 +27,7 @@ namespace InterviewTracker.Controllers
             _interviewTS = interviewTrackerServices;
             _userTS = userInterviewTrackerServices;
         }
-        //Get All Appliaction User on Load of API or calling this method
-        // GET: api/User/GetBlogPost
+        //Get All interview
         [HttpGet]
         public async Task<IEnumerable<Interview>> AllInterviewAsync()
         {
